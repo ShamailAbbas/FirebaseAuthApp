@@ -1,0 +1,13 @@
+.usercontainer {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  padding: 1em;
+  color: white;
+  background-color: rgb(116, 116, 116);
+  font-family: Poppins;
+  margin: 1em 2em;
+}
+.usercontainer > div {
+  margin: 0em 5em 0em 2em;
+}
